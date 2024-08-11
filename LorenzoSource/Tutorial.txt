@@ -1,0 +1,66 @@
+/*!-======[ Thanks To ]======-!*/
+Special Thanks To
+
+— Contributors:
+• TheSpiritOfLorenzo. (Re-coder)
+• DGXeon (Base Script)
+• Devorsix (Ryo) (Contributors)
+• ETC.
+
+/*!-======[ Tutorial ]======-!*/
+
+/*!-======[ WhatsApp Bot Tutorial ]======-!*/
+• First, type (npm install) in your startup/console
+• If done, type (node index.js/npm start) in your startup/console
+
+/*!-======[ Discord Bot Tutorial ]======-!*/
+• First, you need to install the module
+• If done, copy, paste/create file with name .env
+• Filll .env with - TOKEN=
+               - CLIENT_ID=
+• Fill TOKEN and CLIENT_ID with your discord bot token/clientid
+• Then go to our startup/console and type (node ./LorenzoDiscord/index.js)         
+
+/*!-======[ Telegram Bot Tutorial ]======-!*/
+• First, you need to install the module
+• If done, fill settings.js in Telegram options with your telegram token
+• Then go to our startup/console and type (node ./LorenzoTelegram/LorenzoStart.js)              
+
+/*!-======[ Plugins Feature Tutorial ]======-!*/
+• First, you only need to create a feature that is similar to the example of one of the plugins
+• If done, add this feature to one of the files in (LorenzoPlugins)
+• You can create files as you like if you want in (LorenzoPlugins)
+• You can add, replace, delete and remove plugins using
+  - .addplugins
+  - .cgplug
+  - .rmplug
+  - .getplug 
+
+/*!-======[ Case Feature Tutorial ]======-!*/
+• First, you only need to create a feature that is similar to the example of one of the case
+• If done, add this feature to one of the files in (LorenzoCheems.js)
+• You can create files as you like if you want in (LorenzoCheems.js)
+• You can add, delete, edits, or view all cases in the script using 
+  - .addcase
+  - .delcase
+  - .getcase
+  - .listcase
+  
+/*!-======[ IP Validation Tutorial ]======-!*/
+• First, create a repository on your GitHub with a name of your choice
+• If done, create a database.json file in your repository filled in by
+  - IP
+  - User
+  - Password
+• If done, you can copy your raw repository and paste it into (main.js) in the IP Validation section
+
+/*!-======[ Connection Tutorial ]======-!*/
+• First, you need to start the panel/place to run this bot
+• If done, there will be an option to connect to your WhatsApp number via QR or pairing.
+  - If you choose QR, you need an additional device. It is recommended to use the pairing option. 
+  - if you choose Pairing, you need to type our number in console
+    Exampe : 628xxxxxxxxxx
+    copy code show in console
+    open our WhatsApp application
+    then go to -> Linked Device -> Link a Device -> Link With Phone Number     Instead
+    fill column with our pairing code.
